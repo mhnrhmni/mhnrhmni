@@ -7,6 +7,9 @@
 <p align="left">
 </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mahan-rahmani-7ba551316" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/mahan-rahmani-7ba551316?trk=profile-badge">Mahan Rahmani</a></div>
+              
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a &nbsp &nbsp href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a &nbsp &nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> </p>
