@@ -6,9 +6,6 @@
 
 <p align="left">
 </p>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="mahan-rahmani-7ba551316" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/mahan-rahmani-7ba551316?trk=profile-badge">Mahan Rahmani</a></div>
               
 <h3 align="left">Languages and Tools:</h3>
 <div>
