@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left">🔭 I'm work on world<br>🎯 my goal is make future<br>⚡This is the way<br><br>📚 I'm currently learning rust progeamming language</h4>
+<h4 align="left">🔭 I'm work on world<br>🎯 my goal is make future<br>⚡This is the way<br>📚 I'm currently learning rust progeamming language</h4>
 
 ###
 
@@ -37,8 +37,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="wordpress logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
@@ -71,7 +69,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhnrhmni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhnrhmni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="145" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mhnrhmni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="145" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhnrhmni&radius=13&theme=react&area=true&order=5" height="365" alt="activity-graph graph"  />
@@ -92,7 +90,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31akbsh5lt4k43vrmsnjbanfgd3i">
-    <img height="160" src="https://spotify-recently-played-readme.vercel.app/api?user=31w2lw5ubibzw3u4cvtwolvcbvdu&count=1&unique=false" alt="Spotify recently played"  />
+    <img height="160" src="https://spotify-recently-played-readme.vercel.app/api?user=31akbsh5lt4k43vrmsnjbanfgd3i&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -111,11 +109,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<div>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a &nbsp &nbsp href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> <a &nbsp &nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> </p>
 
 <!---
 mhnrhmni/mhnrhmni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
