@@ -43,6 +43,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="django logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
