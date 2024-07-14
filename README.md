@@ -49,8 +49,8 @@
   <img width="12" /> <br>
   <img src="https://skillicons.dev/icons?i=windows" height="45" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="vscode logo"  />
+  <img width="12" /> <br>
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=android-studio" height="45" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="12"
+  <img width="12"/> <br>
   <img src="https://skillicons.dev/icons?i=ai" height="45" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
