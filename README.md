@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left">🔭 I'm work on world<br>🎯 my goal is make future<br>⚡This is the way<br>📚 I'm currently learning rust progeamming language</h4>
+<h4 align="left">🔭 I'm work on world<br>🎯 my goal is make future<br>⚡This is the way<br>📚 I'm currently learning Dart progeamming language</h4>
 
 ###
 
