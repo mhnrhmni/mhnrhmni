@@ -65,7 +65,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="sketchup logo"  />
+  <img src="https://skillicons.dev/icons?i=sketchup" height="45" alt="sketchup logo"  />
 </div>
 
 ###
