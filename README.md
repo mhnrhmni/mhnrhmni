@@ -105,7 +105,6 @@
 <h2 align="left">🎖️ honors</h2>
 
 <img height="600" src="https://certificates.cs50.io/abed8e25-f358-4d02-9e4f-9dcecbe07c56.png?size=A4"  />
-ز
 
 [![](https://visitcount.itsvg.in/api?id=mhnrhmni&icon=6&color=5)](https://visitcount.itsvg.in)
 
