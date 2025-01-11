@@ -1,118 +1,39 @@
+<img src="images/svg/header_en.svg"></img>
+<h3>I'm a coding aficionado, always hungry for new challenges in the digital realm! &#x2713;</h3>
 
-<h1 align="left">Hello,👋 World!</h1>
+[![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in) <br>
 
-###
-
-<p align="left">My name is Mahan Rahmani and I'm a Programmer , IT specialist , Graphic Designer and 3D Modeller from Iran</p>
-
-###
-
-<h2 align="left">💫 About me</h2>
-
-###
-
-<h4 align="left">🔭 I'm work on world <br>🎯 my goal is make future<br>⚡This is the way<br>📚 I'm currently learning Dart progeamming language</h4>
-
-###
-
-<h2 align="left">🌐 My socials</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@MahanRahmani-eh4gt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="49" height="37" alt="youtube logo"  />
-  </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mahan-rahmani" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">🖥 I work with</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="12" /> <br>
-  <img src="https://skillicons.dev/icons?i=windows" height="45" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="vscode logo"  />
-  <img width="12" /> <br>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="12"/> <br>
-  <img src="https://skillicons.dev/icons?i=ai" height="45" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sketchup" height="45" alt="sketchup logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vray" height="45" alt="sketchup logo"  />
-</div>
-
-###
-
-<h2 align="left">📊 My State</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhnrhmni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnrhmni&layout=compact&theme=react"/>
-  <img src="https://streak-stats.demolab.com?user=mhnrhmni&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="145" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhnrhmni&radius=13&theme=react&area=true&order=5" height="365" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhnrhmni&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="160" alt="activity-graph graph"  />
-</div>
+  <img align="right" style="width: 300px;height: 300px;bottom:200px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></img>
 
 
- ###
 
-<h2 align="left">🔑 Quoted</h2>
+<table style="width:800px;align:center;">
+  <tr>
+    <td>
+      -🌱 I’m currently learning  React <br>
+      - 👨‍💻 All of my projects are available at https://github.com/Mahsa-Arabzadeh <br>
+      - 📫 How to reach me: arabzadehmah@gmail.com <br>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img height="400" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"  />
-</div>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mahsa-arabzadeh-964747287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahsa-arabzadeh-964747287" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/23543077/mahsa-arabzadeh" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="23009684"
+            height="30"
+            width="40"
+    /></a>
+<a href="https://dev.to/mahsaarabzadeh" target="blank"><img src="images_dev_1_-removebg-preview.png" align="center" alt="mahsa-arabzadeh-964747287" height="30" width="40" /></a>
+<a href="https://discord.gg/Mahsaxtz#2683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahsaxtz#2683" height="30" width="40" /></a> 
+<a href="https://www.reddit.com/user/Pretty-Secretary8257/" target="blank"> <img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="mahsa-arabzadeh-964747287" height="40" width="40" /> </a>
+</p>
 
-###
 
-<h2 align="left">🎖️ honors</h2>
-
-<img height="600" src="https://certificates.cs50.io/abed8e25-f358-4d02-9e4f-9dcecbe07c56.png?size=A4"  />
-
-[![](https://visitcount.itsvg.in/api?id=mhnrhmni&icon=6&color=5)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!---
-mhnrhmni/mhnrhmni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br>
