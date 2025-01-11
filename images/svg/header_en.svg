@@ -21,7 +21,7 @@ svg {
 }
 
 rect.headerRect {
-  fill: black;
+  fill: blue;
   fill-opacity: 20%;
 }
 rect.headerRect:hover {
@@ -183,7 +183,7 @@ g.typingUnderline rect {
 <text x="0" font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="1.5">
   <textPath xlink:href="#nameTyping" >
-      Mahsa Arabzadeh
+      Mahan Rahmani
   </textPath>
 </text>
 
@@ -201,13 +201,13 @@ g.typingUnderline rect {
 <text x="31" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Web designer, Programmer
+      Programmer , Graphic Designer , 3D Modeller
   </textPath>
 </text>
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
-      Hey, delighted to meet you!
+      Fall seven times and stand up eight.
 </text>
 
 <text x="22" y="12" font-family="Helvetica" font-size=".22em"
