@@ -1,4 +1,4 @@
-
+<img src="images/svg/header_en.svg"></img>
 
 <h1 align="left">Hello,👋 World!</h1>
 
@@ -12,24 +12,6 @@
 
 ###
 
-<h4 align="left">🔭 I'm work on world <br>🎯 my goal is make future<br>⚡This is the way<br>📚 I'm currently learning Dart progeamming language</h4>
-
-###
-
-<h2 align="left">🌐 My socials</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@MahanRahmani-eh4gt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="49" height="37" alt="youtube logo"  />
-  </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mahan-rahmani" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <h2 align="left">🖥 I work with</h2>
 
@@ -68,7 +50,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sketchup" height="45" alt="sketchup logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vray" height="45" alt="sketchup logo"  />
 </div>
 
 ###
