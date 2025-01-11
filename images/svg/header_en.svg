@@ -21,7 +21,7 @@ svg {
 }
 
 rect.headerRect {
-  fill: blue;
+  fill: black;
   fill-opacity: 20%;
 }
 rect.headerRect:hover {
