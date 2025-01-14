@@ -205,10 +205,6 @@ g.typingUnderline rect {
   </textPath>
 </text>
 
-<text x="22" y="12" font-family="Helvetica" font-size=".22em"
-      fill="#AAA" font-weight="bold"> 
-</text>
-
 
 <image style="overflow:visible;clip-path:url(#mask);TWFkZUJ5VGFjY2E=;" 
 width="4" x="17" y="8.5"
