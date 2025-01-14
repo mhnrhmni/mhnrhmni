@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="12" /> <br>   <a href="https://github.com/mhnrhmni/FakeFarsi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhnrhmni&repo=FakeFarsi&show_owner=false&theme=transparent" /></a>
+  <img width="12" /> <br>   <a href="https://github.com/mhnrhmni/FakeFarsi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhnrhmni&repo=FakeFarsi&show_owner=false&theme=transparent" /></a> <br>
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
