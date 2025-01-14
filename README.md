@@ -1,14 +1,8 @@
 <img src="images/svg/header_en.svg"></img>
 
-<h1 align="left">Hello,👋 My name is Mahan!</h1>
+<h1 align="center">Hello,👋 My name is Mahan!</h1>
 
 
-
-<h2 align="left">💫 About me</h2>
-
-<p align="left">My name is Mahan Rahmani and I'm a Programmer , IT specialist , Graphic Designer and 3D Modeller from Iran</p>
-
-###
 ###
 
 
