@@ -45,7 +45,7 @@ I am Mahan Rahmani, a programmer and interested in the field of technology and i
 
 <h2 align="left">🎖️ honors</h2>
 
-<img height="500" src="https://certificates.cs50.io/abed8e25-f358-4d02-9e4f-9dcecbe07c56.png?size=A4"  />
+<img height="600" src="https://certificates.cs50.io/abed8e25-f358-4d02-9e4f-9dcecbe07c56.png?size=A4"  />
 
 [![](https://visitcount.itsvg.in/api?id=mhnrhmni&icon=6&color=5)](https://visitcount.itsvg.in)
 
