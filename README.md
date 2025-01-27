@@ -37,7 +37,7 @@ I am Mahan Rahmani, a programmer and interested in the field of technology and i
 <br clear="both">
 
 | 🌟 Please Give Star 🌟 | Quotes | Technologies I Use |
-|------------------------|--------|---------------------|
+|-------------------------------------|--------|---------------------|
 | <a href="https://github.com/mhnrhmni/FileSorter">![Repository](https://github-readme-stats.vercel.app/api/pin/?username=mhnrhmni&repo=FileSorter&show_owner=false&theme=transparent)</a> | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight) | <div align="center"> <img src="https://skillicons.dev/icons?i=py" alt="python logo" height="45" /> <img src="https://skillicons.dev/icons?i=dart" alt="dart logo" height="45" /> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter logo" height="45" /> <img src="https://skillicons.dev/icons?i=html" alt="html5 logo" height="45" /> <img src="https://skillicons.dev/icons?i=css" alt="css3 logo" height="45" /> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" height="45" /> <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" height="45" /> <img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio logo" height="45" /> <img src="https://skillicons.dev/icons?i=git" alt="git logo" height="45" /> <img src="https://skillicons.dev/icons?i=ai" alt="adobeillustrator logo" height="45" /> <img src="https://skillicons.dev/icons?i=ps" alt="adobephotoshop logo" height="45" /> <img src="https://skillicons.dev/icons?i=sketchup" alt="sketchup logo" height="45" /> </div> |
 
 
