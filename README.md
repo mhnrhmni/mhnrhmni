@@ -18,42 +18,6 @@ I am Mahan Rahmani, a programmer and interested in the field of technology and i
 ###
 
 
-<h2 align="left">🖥 I work with</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="12" /> <br> <h1> 🌟 Please Give Star 🌟</h1> <br>  <a href="https://github.com/mhnrhmni/FileSorter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhnrhmni&repo=FileSorter&show_owner=false&theme=transparent" /></a> <br>
-  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="45" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="12"/> <br>
-  <img src="https://skillicons.dev/icons?i=ai" height="45" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sketchup" height="45" alt="sketchup logo"  />
-  <img width="12" />
-</div>
-
-
 <details open>  
   <summary><h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"></h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
@@ -70,18 +34,18 @@ I am Mahan Rahmani, a programmer and interested in the field of technology and i
 </p>
 </details>
 
+<br clear="both">
 
-<h2 align="left">🔑 Quoted</h2>
+| 🌟 Please Give Star 🌟 | Quotes | Technologies I Use |
+|------------------------|--------|---------------------|
+| <a href="https://github.com/mhnrhmni/FileSorter">![Repository](https://github-readme-stats.vercel.app/api/pin/?username=mhnrhmni&repo=FileSorter&show_owner=false&theme=transparent)</a> | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight) | <div align="center"> <img src="https://skillicons.dev/icons?i=py" alt="python logo" height="45" /> <img src="https://skillicons.dev/icons?i=dart" alt="dart logo" height="45" /> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter logo" height="45" /> <img src="https://skillicons.dev/icons?i=html" alt="html5 logo" height="45" /> <img src="https://skillicons.dev/icons?i=css" alt="css3 logo" height="45" /> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" height="45" /> <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" height="45" /> <img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio logo" height="45" /> <img src="https://skillicons.dev/icons?i=git" alt="git logo" height="45" /> <img src="https://skillicons.dev/icons?i=ai" alt="adobeillustrator logo" height="45" /> <img src="https://skillicons.dev/icons?i=ps" alt="adobephotoshop logo" height="45" /> <img src="https://skillicons.dev/icons?i=sketchup" alt="sketchup logo" height="45" /> </div> |
 
-<div align="center">
-  <img height="400" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"  />
-</div>
 
 ###
 
 <h2 align="left">🎖️ honors</h2>
 
-<img height="600" src="https://certificates.cs50.io/abed8e25-f358-4d02-9e4f-9dcecbe07c56.png?size=A4"  />
+<img height="500" src="https://certificates.cs50.io/abed8e25-f358-4d02-9e4f-9dcecbe07c56.png?size=A4"  />
 
 [![](https://visitcount.itsvg.in/api?id=mhnrhmni&icon=6&color=5)](https://visitcount.itsvg.in)
 
