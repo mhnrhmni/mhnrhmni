@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/mhnrhmni?tab=followers">
-    <img alt="Mahan Rahmani" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mhnrhmni?color=FF0000&logoColor=white&label=Follow&logo=person-add&style=for-the-badge&labelColor=000000"/></a>
-    <img alt="Mahan Rahmani" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/mhnrhmni?color=FF0000&labelColor=000000&logo=star&style=for-the-badge"/>
-    <img alt="Mahan Rahmani" title="Views" src="https://komarev.com/ghpvc/?username=mhnrhmni&color=00000F&style=for-the-badge"/>
+    <img alt="Mahan Rahmani" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/<Mahan-Rahmani?color=FF0000&logoColor=white&label=Follow&logo=person-add&style=for-the-badge&labelColor=000000"/></a>
+    <img alt="Mahan Rahmani" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/Mahan-Rahmani?color=FF0000&labelColor=000000&logo=star&style=for-the-badge"/>
+    <img alt="Mahan Rahmani" title="Views" src="https://komarev.com/ghpvc/?username=Mahan-Rahmani&color=00000F&style=for-the-badge"/>
 <p/>
 
 <!-- About Me Text BEGIN -->
@@ -21,14 +21,14 @@ I am <b>Mahan Rahmani</b>, a <strong>programmer</strong> and interested in the f
 <details open>  
   <summary><h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire Emoji" width="30" height="30"> Streaks, Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Mahan Rahmani" width="30" height="30"></h2></summary>
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-  <img alt="Mahan Rahmani" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=mhnrhmni&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
+  <img alt="Mahan Rahmani" align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Mahan-Rahmani&hide_border=true&title_color=FFFFFF&show_icons=true&icon_color=FF0000&ring_color=FF0000&bg_color=000000&text_color=FFFFFF&rank_icon=github" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img alt ="Mahan Rahmani" align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=mhnrhmni&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
+    <img alt ="Mahan Rahmani" align="center" width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=Mahan-Rahmani&theme=highcontrast&currStreakNum=FF0000&fire=FF0000&card_height=205&currStreakLabel=FF0000&ring=FF0000&border=000000" />
     <br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
-<img alt="Mahan Rahmani" width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=mhnrhmni&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
+<img alt="Mahan Rahmani" width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahan-Rahmani&theme=high-contrast&hide_border=true&area_color=FF0000&area=true&point=FF0000&line=FF0000&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img alt="Mahan Rahmani" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnrhmni&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+    <img alt="Mahan Rahmani" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahan-Rahmani&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
     <br/>
 
 </p>
@@ -38,7 +38,7 @@ I am <b>Mahan Rahmani</b>, a <strong>programmer</strong> and interested in the f
 
 | 🌟 Please Give Star 🌟 | Quotes | Technologies I Use |
 |-------------------------------------|--------|---------------------|
-| <a href="https://github.com/mhnrhmni/FileSorter">![Repository](https://github-readme-stats.vercel.app/api/pin/?username=mhnrhmni&repo=FileSorter&show_owner=false&theme=transparent)</a> | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight) | <div align="center"> <img src="https://skillicons.dev/icons?i=py" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=dart" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=flutter" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=html" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=css" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=vscode" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=visualstudio" alt="Mahan Rahmani" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=git" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=ai" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=ps" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=sketchup" alt="Mahan Rahmani" height="45" /> </div> |
+| <a href="https://github.com/Mahan-Rahmani/FileSorter">![Repository](https://github-readme-stats.vercel.app/api/pin/?username=mhnrhmni&repo=FileSorter&show_owner=false&theme=transparent)</a> | ![Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight) | <div align="center"> <img src="https://skillicons.dev/icons?i=py" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=dart" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=flutter" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=html" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=css" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=vscode" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=visualstudio" alt="Mahan Rahmani" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=androidstudio" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=git" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=ai" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=ps" alt="Mahan Rahmani" height="45" /> <img src="https://skillicons.dev/icons?i=sketchup" alt="Mahan Rahmani" height="45" /> </div> |
 
 
 ###
