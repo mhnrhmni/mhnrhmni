@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/mhnrhmni?tab=followers">
-    <img alt="Mahan Rahmani" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/<Mahan-Rahmani?color=FF0000&logoColor=white&label=Follow&logo=person-add&style=for-the-badge&labelColor=000000"/></a>
+    <img alt="Mahan Rahmani" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Mahan-Rahmani?color=FF0000&logoColor=white&label=Follow&logo=person-add&style=for-the-badge&labelColor=000000"/></a>
     <img alt="Mahan Rahmani" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/Mahan-Rahmani?color=FF0000&labelColor=000000&logo=star&style=for-the-badge"/>
     <img alt="Mahan Rahmani" title="Views" src="https://komarev.com/ghpvc/?username=Mahan-Rahmani&color=00000F&style=for-the-badge"/>
 <p/>
