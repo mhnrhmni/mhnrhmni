@@ -15,7 +15,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Mahan Rahmani" width="25" height="25" /> About Me
 **` Newbie Developer (Developer/Designer/Creator)`**
 
-I am <b>Mahan Rahmani</b>, a <strong>programmer</strong> and interested in the field of technology and information technology. I am currently working on Python projects and mobile programming and am interested in learning different topics in this field.I am also very interested in the network and I am learning I am also active in the field of 3D models and space construction. Sometimes I design logos and posters and do graphic work. I also welcome participation and cooperation with other programmers and developers. 🚀💻
+I am <b>Mahan Rahmani</b> <b>( ماهان رحمانی )</b>, a <strong>programmer</strong> and interested in the field of technology and information technology. I am currently working on Python projects and mobile programming and am interested in learning different topics in this field.I am also very interested in the network and I am learning I am also active in the field of 3D models and space construction. Sometimes I design logos and posters and do graphic work. I also welcome participation and cooperation with other programmers and developers. 🚀💻
 
 ###
 
